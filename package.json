@@ -1,7 +1,7 @@
 {
-  "name": "HEXAGONZ",
+  "name": "SHAMZY",
   "version": "1.0.0",
-  "description": "HEXA",
+  "description": "XOXO",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -44,15 +44,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hexagonz"
+    "url": "git+https://github.com/Shamzy-xoxo"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "HEXAGON",
+  "author": "SHAMZY",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hexagonz"
+    "url": "https://github.com/Shamzy-xoxo"
   },
-  "homepage": "https://github.com/Hexagonz"
+  "homepage": "https://github.com/Shamzy-xoxo"
 }

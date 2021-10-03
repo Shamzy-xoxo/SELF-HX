@@ -55,9 +55,9 @@ const { jadibot, stopjadibot, listjadibot } = require('./lib/jadibot')
 
 banChats = true
 offline = false
-targetpc = '6285751056816'
-owner = '6285751056816'
-fake = 'HEXAGONZ'
+targetpc = '917594090074'
+owner = '917594090074'
+fake = 'SHAMZY'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
